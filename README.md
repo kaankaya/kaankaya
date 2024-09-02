@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 ## 📫 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/kaankaya) 
-- [YouTube - HexaTR](https://www.youtube.com/c/HexaTR)
+- [YouTube - HexaTR]([https://www.youtube.com/@hexatr])
 
 
 
