@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 👋 Hi, I'm Kaan Kaya!
 
 - 🎓 Software Developer 
-- 💻 Skilled in C#, Php, and .NET technologies.
+- 💻 Skilled in C# and .NET technologies.
 - 🎯 Passionate about contributing to my own projects and the open-source community.
 - 🌱 Currently developing applications using C# and exploring advanced features of .NET MAUI.
 - 🚀 Sharing software tutorials on my YouTube channel **HexaTR**.
